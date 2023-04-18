@@ -1,5 +1,5 @@
 # Proies-Predateurs
-Simulation d'un monde constitué de proies et de prédateurs par Tom DARQUES et Clément MAGNIEZ
+Simulation d'un monde constitué de proies et de prédateurs par Tom DARQUES et Clément MAGNIEZ.
 Une proie (représentée en gris) meurt si elle est mangée par un prédateur. Un prédateur (représenté en rouge) meurt si il ne mange pas suffisamment de proies
 
 Compiler le fichier test_mouvement.cpp et l'éxécuter en respectant les paramètres ci-dessous
