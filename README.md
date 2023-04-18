@@ -4,7 +4,7 @@ Une proie (représentée en gris) meurt si elle est mangée par un prédateur. U
 
 Compiler le fichier test_mouvement.cpp et l'éxécuter en respectant les paramètres ci-dessous
 
-Modèle parametres : ./main NbIndividus Largeur Hauteur NbGénérations Graine
+Modèle parametres : ./main NbIndividus Largeur Hauteur NbGénérations Graine                                                                                       
 
 Largeur*Hauteur doit être inférieur environ à 2300
 
