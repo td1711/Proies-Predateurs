@@ -8,6 +8,7 @@ Modèle parametres : ./main NbIndividus Largeur Hauteur NbGénérations Graine
 
 Largeur*Hauteur doit être inférieur environ à 2300
 
+L'affichage se fait dans le fichier out.svg pendant l'éxécution. Chaque génération est stockée dans un fichier svg dans le dossier out                         
 
 Voici quelques exemples d'éxécution en fonction des paramètres
 
